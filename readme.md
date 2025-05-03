@@ -1,4 +1,4 @@
-#### Water Segmentation on Elevated Noise SAR Imagery - Applications for Flood detection
+### Water Segmentation on Elevated Noise SAR Imagery - Applications for Flood detection
 Please see the preview.pdf for the first 3 pages of this repositories associated research letter.
 
 This repo contains a range of scripts and notebooks I used and developed to conduct numerical experimentation on the effects of increased noise on SAR satellite imagery, specifically the effect on water segmentation models (both machine learning and thresholding techniques)
