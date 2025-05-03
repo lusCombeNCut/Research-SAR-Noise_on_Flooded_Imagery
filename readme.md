@@ -7,7 +7,7 @@ This repo contains a range of scripts and notebooks I used and developed to cond
 All data used in this project was gathered from ESA's [copernicus browser](https://browser.dataspace.copernicus.eu/).
 ! Warning - the SAR level-0 image files can be very large, try and pick a small sample to test frist
 
-```Experiment.py``` - Experimentation script that takes in a SAR image and returns the segmennted image and associate F1 score. 
+```Experiment.py``` - Processes a level-0 SAR image and returns the segmented image and associated F1 score. 
 
 ```ModelTest.py``` - Tests the model against the MMfloods dataset. 
 
